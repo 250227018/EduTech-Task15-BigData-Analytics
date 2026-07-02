@@ -1,0 +1,6 @@
+service,response_time_ms
+AuthService,2495.43
+NotificationService,2494.05
+OrderService,2501.81
+PaymentService,2507.69
+UserService,2506.25
